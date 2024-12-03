@@ -8,7 +8,7 @@
 
 
 Welcome to my profile!
-I’m a Full Stack Web Developer in the UK 🇬🇧  with over 4 years of experience in designing, developing, and maintaining web applications.
+I’m a Full Stack Web Developer in the UK 🇬🇧  with over 6 years of experience in designing, developing, and maintaining web applications.
 
 I specialize in .NET stack with practical expertise in front-end frameworks like React and Angular.
 
