@@ -10,7 +10,7 @@ I’m a Full Stack Web Developer in the UK 🇬🇧  with over 6 years of experi
 
 I specialize in .NET stack with practical expertise in front-end frameworks like React and Angular.
 
-Find more on my [Website](https://ilonazaika.github.io/ilona.zaika/).
+Find out more on my [Website](https://ilonazaika.github.io/ilona.zaika/).
 
 Thank you for visiting my profile! I’m happy to connect, share insights, and explore exciting new opportunities together.
 
