@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-IlonaZaika-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilona-zaika-a6735a116/)](https://www.linkedin.com/in/ilona-zaika-a6735a116/)
 [![Gmail Badge](https://img.shields.io/badge/-zaika.ilona.v-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zaika.ilona.v@gmail.com)](mailto:zaika.ilona.v@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@zaika.ilona.dev-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@zaika.ilona.dev)](https://medium.com/@zaika.ilona.dev)
-[![Website Badge](https://img.shields.io/badge/-ilona.zaika-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ilonazaika.github.io/ilona.zaika/)]
-
 
 
 Welcome to my profile!
@@ -13,6 +11,7 @@ I’m a Full Stack Web Developer in the UK 🇬🇧  with over 6 years of experi
 I specialize in .NET stack with practical expertise in front-end frameworks like React and Angular.
 
 Thank you for visiting my profile! I’m happy to connect, share insights, and explore exciting new opportunities together.
+Find more on my [Website](https://ilonazaika.github.io/ilona.zaika/).
 
 
 ### My Skills
