@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-IlonaZaika-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilona-zaika-a6735a116/)](https://www.linkedin.com/in/ilona-zaika-a6735a116/)
 [![Gmail Badge](https://img.shields.io/badge/-zaika.ilona.v-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zaika.ilona.v@gmail.com)](mailto:zaika.ilona.v@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@zaika.ilona.dev-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@zaika.ilona.dev)](https://medium.com/@zaika.ilona.dev)
-[![Website Badge](https://img.shields.io/badge/-ilonazaika-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ilonazaika.github.io/ilona.zaika/)]
+![Website Badge](https://img.shields.io/badge/-ilonazaika-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ilonazaika.github.io/ilona.zaika/)
 
 
 
