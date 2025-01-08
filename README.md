@@ -17,7 +17,7 @@ Thank you for visiting my profile! I’m happy to connect, share insights, and e
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,redis,angular,react,redux,next,js,express,npm,webpack,html,css,gulp,bootstrap,aws,babel,bash,git,bitbucket,docker,postman,rabitmq,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,redis,angular,react,redux,js,express,npm,webpack,html,css,gulp,bootstrap,aws,babel,bash,git,bitbucket,docker,postman,rabitmq,)](https://skillicons.dev)
 
 ## My 101 Projects
 - Performance Optimization
